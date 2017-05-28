@@ -30,9 +30,9 @@ header {
 }
 
 .menu li a {
-	float: left;
-	display: inline-block;
-    margin: 0;
+    float: left;
+    display: inline-block;
+    margin-left: 20px;
     padding: 0px 15px;
     font-family: YanoneKaffeesatzL;
     font-size: 20px;
